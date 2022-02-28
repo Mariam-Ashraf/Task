@@ -1,0 +1,22 @@
+.active {
+    border-bottom: 2px #00938e !important;
+    color: #00938e !important;
+    font-weight: bold !important;
+}
+
+th,
+.usersId,
+.close-button {
+    color: #b1bccf !important;
+}
+
+table {
+    border-collapse: separate !important;
+    border-spacing: 0 1rem !important;
+}
+
+.save-button {
+    width: 20%;
+    background-color: #ff5d25 !important;
+    font-weight: 600 !important;
+}

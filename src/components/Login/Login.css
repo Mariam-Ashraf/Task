@@ -1,0 +1,28 @@
+.form {
+    padding-left: 5rem !important;
+    padding-right: 5rem !important;
+}
+
+.signIn-btn {
+    border-radius: 12px !important;
+    background-color: #ff5d25 !important;
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+    font-weight: 600 !important;
+}
+
+.form-check-input:checked {
+    background-color: #ff5d25 !important;
+    border-color: #ff5d25 !important;
+}
+
+.forgetPass {
+    color: #ff5d25 !important;
+}
+
+@media screen and (max-width: 426px) {
+    .form {
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+}

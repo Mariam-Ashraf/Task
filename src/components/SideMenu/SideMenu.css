@@ -1,0 +1,6 @@
+.item:hover,
+.item:hover>h5,
+.item:hover>.icon {
+    color: #0f9792 !important;
+    font-weight: bold !important;
+}
